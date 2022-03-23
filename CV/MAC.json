@@ -1,0 +1,386 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yeray",
+      "surnames": "Darias",
+      "title": "Developer at getmanfred.com",
+      "description": "I am a software developer and a chef :-)",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/be8982b4-1aad-4df4-a984-9a0aeedbd5ec_bc91c9d44654771f5e9d.bc91c9d44654771f5e9de85fa1eadb47"
+      },
+      "location": {
+        "notes": "Madrid, Community of Madrid, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/ydarias"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ydarias"
+      },
+      {
+        "type": "other",
+        "URL": "https://ydarias.github.io/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "IntelliJ IDEA"
+      },
+      {
+        "topic": "First computer",
+        "fact": "MSX"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "How Real Leaders Melt The Iceberg of Ignorance With Humility",
+        "type": "reading",
+        "URL": "https://corporate-rebels.com/iceberg-of-ignorance/",
+        "authors": [
+          {
+            "name": "Joost",
+            "surnames": "Minnaar",
+            "title": "Author"
+          }
+        ],
+        "summary": "Humility is a required skill for leaders to get more openness from people reporting to them. This prevents being ignorant of structural problems."
+      },
+      {
+        "title": "Building Evolutionary Architectures: Support Constant Change",
+        "type": "reading",
+        "URL": "https://www.amazon.es/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360/ref=sr_1_1?keywords=evolutionary+architectures&qid=1647938164&sprefix=evolutionary%2Caps%2C88&sr=8-1",
+        "authors": [
+          {
+            "name": "Neal",
+            "surnames": "Ford",
+            "title": "Author"
+          }
+        ],
+        "summary": "This is a great book to learn how to build software that resists over time. Making things simple, using the scientific method to measure what is important, and taking decisions that helps the team to maintain the codebase."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Avantic Estudio de Ingenieros"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2007-11-01",
+            "finishDate": "2013-12-31",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Scala",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fon Technology",
+          "image": {
+            "alt": "Fon Technology",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/ffb81d9a-eb20-4b35-a177-f46b912e9195_au50p.jpg"
+          },
+          "URL": "http://www.fon.com"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2018-02-28",
+            "challenges": [
+              {
+                "description": "Lead developer for backend infrastructure."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Vert.x",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "netflix-zuul",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Hazelcast",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-02-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "intellij-idea",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM Research"
+        },
+        "roles": [
+          {
+            "name": "Backend specialist",
+            "startDate": "2018-02-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "During my time at IBM Research, I've worked on multiple projects helping researchers to take lav innovations to real products level.\n\nMost of my experience was with IBM Quantum where I've worked at the microservices team helping to create an architecture that could last in the time."
+              }
+            ],
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "visual-studio-code",
+                "type": "technology"
+              },
+              {
+                "name": "antlr4",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "loopbackjs",
+                "type": "technology"
+              },
+              {
+                "name": "nestjs",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Otogami"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2014-01-01",
+            "finishDate": "2017-02-28",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "shiro",
+                "type": "technology"
+              },
+              {
+                "name": "antlr",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Startup Weekend Tenerife 2013 winners",
+          "description": "That's it we won."
+        },
+        "type": "achievement",
+        "publishingDate": "2013-04-01",
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "My category of Milestone"
+        ]
+      },
+      {
+        "details": {
+          "name": "Runnics en Betabeers Madrid",
+          "description": "El viernes pasado me invitaron a dar una charla sobre Runnics en el Betabeers de Madrid, y al parecer gustó bastante, razón por la cual ...",
+          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
+          "image": {
+            "alt": "Runnics en Betabeers Madrid",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/a3876468-b2b5-4cd7-aae5-834633a0d46d_xfomd.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2014-09-01"
+      },
+      {
+        "details": {
+          "name": "The Java and the Furious (JMX)",
+          "description": "Talk given at Codemotion 2016 in Madrid about how to measure (Java) code speed and health with JMX.",
+          "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
+          "image": {
+            "alt": "The Java and the Furious (JMX)",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/699b0d81-64cd-4ff7-afcf-ee411353e4e1_hfe4o.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2016-11-01",
+        "relatedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "jmx",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "BetaBeers Salamanca",
+          "description": "These are the slides of my talk about my experience (a kind of postmortem) in Runnics given at BetaBeers Salamanca.",
+          "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
+          "image": {
+            "alt": "BetaBeers Salamanca",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/4b615c3b-9a1f-4c63-a062-80499bebe9c1_vsp6c.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2018-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
