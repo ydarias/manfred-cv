@@ -12,7 +12,7 @@
       "description": "I've been writing software for some years now. I started at a consultancy firm and the last 8 years I've worked at product development. For the last 6 years, I've worked at backend using micro-services architectures.",
       "avatar": {
         "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/be8982b4-1aad-4df4-a984-9a0aeedbd5ec_bc91c9d44654771f5e9d.bc91c9d44654771f5e9de85fa1eadb47"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/da76cc8e-d77d-4afe-83b9-a62d0b34e686_be8982b4-1aad-4df4-a.bc91c9d44654771f5e9de85fa1eadb47"
       },
       "location": {
         "notes": "Madrid, Community of Madrid, ES"
@@ -88,19 +88,19 @@
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Scala",
-                "type": "technology"
-              },
-              {
                 "name": "Spring",
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Scala",
                 "type": "technology"
               }
             ]
@@ -112,7 +112,7 @@
           "name": "Fon Technology",
           "image": {
             "alt": "Fon Technology",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/ffb81d9a-eb20-4b35-a177-f46b912e9195_au50p.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/f78ef02c-2001-4f59-beb7-6c399f67309f_ffb81d9a-eb20-4b35-a.jpg"
           },
           "URL": "http://www.fon.com"
         },
@@ -136,7 +136,7 @@
                 "type": "technology"
               },
               {
-                "name": "Vert.x",
+                "name": "MongoDB",
                 "type": "technology"
               },
               {
@@ -148,15 +148,15 @@
                 "type": "technology"
               },
               {
-                "name": "netflix-zuul",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
+                "name": "Vert.x",
                 "type": "technology"
               },
               {
                 "name": "Hazelcast",
+                "type": "technology"
+              },
+              {
+                "name": "netflix-zuul",
                 "type": "technology"
               }
             ]
@@ -173,15 +173,15 @@
             "startDate": "2022-02-01",
             "competences": [
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
                 "name": "PostgreSQL",
                 "type": "technology"
               },
               {
                 "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
@@ -208,27 +208,11 @@
             ],
             "competences": [
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "visual-studio-code",
-                "type": "technology"
-              },
-              {
-                "name": "antlr4",
-                "type": "technology"
-              },
-              {
                 "name": "Go",
                 "type": "technology"
               },
               {
-                "name": "loopbackjs",
-                "type": "technology"
-              },
-              {
-                "name": "nestjs",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
@@ -236,7 +220,23 @@
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "antlr4",
+                "type": "technology"
+              },
+              {
+                "name": "loopbackjs",
+                "type": "technology"
+              },
+              {
+                "name": "visual-studio-code",
+                "type": "technology"
+              },
+              {
+                "name": "nestjs",
                 "type": "technology"
               }
             ]
@@ -262,11 +262,11 @@
                 "type": "technology"
               },
               {
-                "name": "Groovy",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "Groovy",
                 "type": "technology"
               },
               {
@@ -302,25 +302,12 @@
       },
       {
         "details": {
-          "name": "Runnics en Betabeers Madrid",
-          "description": "El viernes pasado me invitaron a dar una charla sobre Runnics en el Betabeers de Madrid, y al parecer gustó bastante, razón por la cual ...",
-          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
-          "image": {
-            "alt": "Runnics en Betabeers Madrid",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/a3876468-b2b5-4cd7-aae5-834633a0d46d_xfomd.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-09-01"
-      },
-      {
-        "details": {
           "name": "The Java and the Furious (JMX)",
           "description": "Talk given at Codemotion 2016 in Madrid about how to measure (Java) code speed and health with JMX.",
           "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
           "image": {
             "alt": "The Java and the Furious (JMX)",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/699b0d81-64cd-4ff7-afcf-ee411353e4e1_hfe4o.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/fdcbbc61-89fb-467f-b0ae-606e3bc9bdcd_699b0d81-64cd-4ff7-a.jpg"
           }
         },
         "type": "post",
@@ -338,16 +325,63 @@
       },
       {
         "details": {
+          "name": "Runnics en Betabeers Madrid",
+          "description": "El viernes pasado me invitaron a dar una charla sobre Runnics en el Betabeers de Madrid, y al parecer gustó bastante, razón por la cual ...",
+          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
+          "image": {
+            "alt": "Runnics en Betabeers Madrid",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/ba644b06-06e7-4df0-9a1f-1945b37b0ab9_a3876468-b2b5-4cd7-a.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2014-09-01"
+      },
+      {
+        "details": {
           "name": "BetaBeers Salamanca",
           "description": "These are the slides of my talk about my experience (a kind of postmortem) in Runnics given at BetaBeers Salamanca.",
           "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
           "image": {
             "alt": "BetaBeers Salamanca",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/4b615c3b-9a1f-4c63-a062-80499bebe9c1_vsp6c.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/3312f1a1-475d-4f94-b2ed-3f32f057e606_4b615c3b-9a1f-4c63-a.jpg"
           }
         },
         "type": "post",
         "publishingDate": "2018-01-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bsc in Computer Science",
+        "startDate": "1998-09-01",
+        "finishDate": "2005-12-01",
+        "institution": {
+          "name": "Universidad de la Laguna",
+          "description": "I got my Bsc in Computer Science at University of La Laguna, there I not only learned technical skills, but also some interesting softskills and problem solving skills.",
+          "URL": "https://www.ull.es/",
+          "image": {
+            "alt": "Logo_ULL_2018.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/75791155-7554-4b19-87e1-cc5f94dba136_logo_ull_2018.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Pascal",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
