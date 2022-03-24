@@ -11,8 +11,8 @@
       "title": "Developer at getmanfred.com and code chef!",
       "description": "I've been writing software for some years now. I started at a consultancy firm and the last 8 years I've worked at product development. For the last 6 years, I've worked at backend using micro-services architectures.",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/da76cc8e-d77d-4afe-83b9-a62d0b34e686_be8982b4-1aad-4df4-a.bc91c9d44654771f5e9de85fa1eadb47"
+        "alt": "avatar_square_small.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8a7c7356-44cc-4585-bf5f-3f7315eb86c6_avatar_square_small.jpg"
       },
       "location": {
         "notes": "Madrid, Community of Madrid, ES"
@@ -370,7 +370,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "Pascal",
+            "name": "JAVA",
             "type": "technology"
           },
           {
@@ -378,7 +378,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Pascal",
             "type": "technology"
           }
         ]
