@@ -393,7 +393,7 @@
           "type": "technology"
         },
         {
-          "name": "Kotlin",
+          "name": "TypeScript",
           "type": "technology"
         },
         {
@@ -401,11 +401,11 @@
           "type": "technology"
         },
         {
-          "name": "PostgreSQL",
+          "name": "Kotlin",
           "type": "technology"
         },
         {
-          "name": "TypeScript",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       ],
