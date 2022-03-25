@@ -8,8 +8,8 @@
     "profile": {
       "name": "Yeray",
       "surnames": "Darias Camacho",
-      "title": "Developer at getmanfred.com and code chef!",
-      "description": "I've been writing software for some years now. I started at a consultancy firm and the last 8 years I've worked at product development. For the last 6 years, I've worked at backend using micro-services architectures.",
+      "title": "Developer and cookie's policy baker at getmanfred.com",
+      "description": "I've been writing software for some years now. I started at a consultancy firm, but for the last 8 years, I've worked in product development. \n\nDuring the last 6 years, I was involved in microservices architectures, but it is not my default option. I prefer simpler and evolvable systems than following the trend. Each project and situation requires different tools and solutions.",
       "avatar": {
         "alt": "avatar_square_small.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8a7c7356-44cc-4585-bf5f-3f7315eb86c6_avatar_square_small.jpg"
@@ -40,6 +40,10 @@
       {
         "topic": "First computer",
         "fact": "MSX V-20"
+      },
+      {
+        "topic": "Secret weapon",
+        "fact": "NYC style cookies!!!"
       }
     ],
     "recommendations": [
@@ -370,7 +374,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Pascal",
             "type": "technology"
           },
           {
@@ -378,7 +382,7 @@
             "type": "technology"
           },
           {
-            "name": "Pascal",
+            "name": "JAVA",
             "type": "technology"
           }
         ]
