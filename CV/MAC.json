@@ -289,7 +289,7 @@
     "projects": [
       {
         "details": {
-          "name": "xk6-NATS",
+          "name": "NATS extension for k6",
           "description": "This is a k6 extension using the xk6 system, that allows to use NATS protocol.",
           "URL": "https://github.com/ydarias/xk6-nats"
         },
