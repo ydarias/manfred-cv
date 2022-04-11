@@ -310,6 +310,35 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Qiskit Studio",
+          "description": "A Visual Studio Code extension with support for Qiskit and the OpenQASM language. It provides some useful commands to make easier launching jobs and visualizing results among others.",
+          "URL": "https://github.com/qiskit-community/qiskit-vscode",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/eaa95a69-c7e8-4786-a9ee-048dd4009f41_unnamed.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01",
+            "finishDate": "2019-10-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
