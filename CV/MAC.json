@@ -291,7 +291,11 @@
         "details": {
           "name": "NATS extension for k6",
           "description": "This is a k6 extension using the xk6 system, that allows to use NATS protocol.",
-          "URL": "https://github.com/ydarias/xk6-nats"
+          "URL": "https://github.com/ydarias/xk6-nats",
+          "image": {
+            "alt": "Microsoft.VisualStudio.Services.Icons.Default.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/48e004c1-9a1a-4e32-87ae-90949f7fd6cd_microsoft.png"
+          }
         },
         "type": "openSource",
         "roles": [
