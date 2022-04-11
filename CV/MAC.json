@@ -286,6 +286,28 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "xk6-NATS",
+          "description": "This is a k6 extension using the xk6 system, that allows to use NATS protocol.",
+          "URL": "https://github.com/ydarias/xk6-nats"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "Go",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -356,6 +378,28 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "officialDegree",
@@ -374,7 +418,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "Pascal",
+            "name": "JAVA",
             "type": "technology"
           },
           {
@@ -382,7 +426,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Pascal",
             "type": "technology"
           }
         ]
