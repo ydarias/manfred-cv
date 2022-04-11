@@ -339,6 +339,20 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Dev Story Scraper",
+          "description": "",
+          "URL": "https://github.com/getmanfred/dev-story-scraper"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-02-01"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
