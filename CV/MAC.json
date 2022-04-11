@@ -343,14 +343,28 @@
       {
         "details": {
           "name": "Dev Story Scraper",
-          "description": "",
-          "URL": "https://github.com/getmanfred/dev-story-scraper"
+          "description": "With this code, you will survive \"the StackOverflowgeddon\", the discontinuation of the «Developer Story» feature on Stack Overflow, which means that more than 4 million people will lose the professional data forever. This script scraps and downloads your data contained in a Dev Story (using its public URL) as a JSON file, compliant with the open-source MAC (Manfred Awesomic CV) format. ",
+          "URL": "https://github.com/getmanfred/dev-story-scraper",
+          "image": {
+            "alt": "SOgeddon_landing_capture.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/878cfa83-1d12-4d99-8b10-e827b2f428f5_sogeddon_landing_cap.jpg"
+          }
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-02-01"
+            "startDate": "2022-02-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Axios",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
