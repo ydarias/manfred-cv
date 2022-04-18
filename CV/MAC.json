@@ -9,7 +9,7 @@
       "name": "Yeray",
       "surnames": "Darias Camacho",
       "title": "Developer and cookie's policy baker at getmanfred.com",
-      "description": "I've been writing software for some years now. I started at a consultancy firm, but for the last 8 years, I've worked in product development. \n\nDuring the last 6 years, I was involved in microservices architectures, but it is not my default option. I prefer simpler and evolvable systems than following the trend. Each project and situation requires different tools and solutions.",
+      "description": "I've been writing software for some years now. I started at a consultancy firm, but for the last 8 years, I've worked in product development. \n\nDuring the last 6 years, I was involved in microservices architectures, but it is not my default option. I prefer simpler and evolvable systems than following the trend. Each project and situation requires different tools and solutions to give the best value.",
       "avatar": {
         "alt": "avatar_square_small.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8a7c7356-44cc-4585-bf5f-3f7315eb86c6_avatar_square_small.jpg"
@@ -470,7 +470,7 @@
         "finishDate": "2005-12-01",
         "institution": {
           "name": "Universidad de la Laguna",
-          "description": "I got my Bsc in Computer Science at University of La Laguna, there I not only learned technical skills, but also some interesting softskills and problem solving skills.",
+          "description": "I got my Bsc in Computer Science at University of La Laguna. I didn't only learn technical skills, but also some interesting softskills and problem solving skills.",
           "URL": "https://www.ull.es/",
           "image": {
             "alt": "Logo_ULL_2018.png",
