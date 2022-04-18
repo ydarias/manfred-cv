@@ -6,72 +6,18 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Yeray",
-      "surnames": "Darias Camacho",
-      "title": "Developer and cookie's policy baker at getmanfred.com",
-      "description": "I've been writing software for some years now. I started at a consultancy firm, but for the last 8 years, I've worked in product development. \n\nDuring the last 6 years, I was involved in microservices architectures, but it is not my default option. I prefer simpler and evolvable systems than following the trend. Each project and situation requires different tools and solutions to give the best value.",
-      "avatar": {
-        "alt": "avatar_square_small.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8a7c7356-44cc-4585-bf5f-3f7315eb86c6_avatar_square_small.jpg"
-      },
+      "name": "Luca",
+      "surnames": "Salluzzi",
+      "title": "Software Engineering student at University of Buenos Aires (UBA)",
+      "description": "I'm getting a software engineer degree because I want to be as prepared as I can for the tech industry. I'm constantly expecting to develop my abilites in order to become the best developer I can be. For me, organizing myself and having a good time is key. ",
       "location": {
-        "notes": "Madrid, Community of Madrid, ES"
+        "notes": "Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/ydarias"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/ydarias"
-      },
-      {
-        "type": "other",
-        "URL": "https://ydarias.github.io/"
-      }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "Favorite editor",
-        "fact": "IntelliJ IDEA"
-      },
-      {
-        "topic": "First computer",
-        "fact": "MSX V-20"
-      },
-      {
-        "topic": "Secret weapon",
-        "fact": "NYC style cookies!!!"
-      }
-    ],
-    "recommendations": [
-      {
-        "title": "How Real Leaders Melt The Iceberg of Ignorance With Humility",
-        "type": "reading",
-        "URL": "https://corporate-rebels.com/iceberg-of-ignorance/",
-        "authors": [
-          {
-            "name": "Joost",
-            "surnames": "Minnaar",
-            "title": "Author"
-          }
-        ],
-        "summary": "Humility is a required skill for leaders to get more openness from people reporting to them. This prevents being ignorant of structural problems."
-      },
-      {
-        "title": "Building Evolutionary Architectures: Support Constant Change",
-        "type": "reading",
-        "URL": "https://www.amazon.es/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360/ref=sr_1_1?keywords=evolutionary+architectures&qid=1647938164&sprefix=evolutionary%2Caps%2C88&sr=8-1",
-        "authors": [
-          {
-            "name": "Neal",
-            "surnames": "Ford",
-            "title": "Author"
-          }
-        ],
-        "summary": "This is a great book to learn how to build software that resists over time. Making things simple, using the scientific method to measure what is important, and taking decisions that helps the team to maintain the codebase."
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/luca-salluzzi-9b47301b7/"
       }
     ]
   },
@@ -79,88 +25,24 @@
     "jobs": [
       {
         "organization": {
-          "name": "Avantic Estudio de Ingenieros"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2007-11-01",
-            "finishDate": "2013-12-31",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Cordova",
-                "type": "technology"
-              },
-              {
-                "name": "Scala",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Fon Technology",
+          "name": "Sport Protection",
           "image": {
-            "alt": "Fon Technology",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/f78ef02c-2001-4f59-beb7-6c399f67309f_ffb81d9a-eb20-4b35-a.jpg"
-          },
-          "URL": "http://www.fon.com"
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/4fe05101-7f39-40b6-b8f5-72ae25363094_download.png"
+          }
         },
         "roles": [
           {
-            "name": "Software Developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28",
+            "name": "Finacial Recorder at Sportwears Company",
+            "startDate": "2017-01-01",
             "challenges": [
               {
-                "description": "Lead developer for backend infrastructure."
+                "description": "I recieve orders from clients and I convert it to excel in which I sumarize the information of what they want and how they want it. Then I create another excel sheet in which I show them a clear view of their budget"
               }
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Groovy",
-                "type": "technology"
-              },
-              {
-                "name": "Vert.x",
-                "type": "technology"
-              },
-              {
-                "name": "Hazelcast",
-                "type": "technology"
-              },
-              {
-                "name": "netflix-zuul",
+                "name": "Excel",
                 "type": "technology"
               }
             ]
@@ -169,272 +51,20 @@
       },
       {
         "organization": {
-          "name": "Manfred"
+          "name": "Asociación Argentina de Jugadores de Básquetbol",
+          "URL": ""
         },
         "roles": [
           {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "competences": [
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM Research"
-        },
-        "roles": [
-          {
-            "name": "Backend specialist",
-            "startDate": "2018-02-01",
-            "finishDate": "2022-02-28",
+            "name": "Basketball Event Organizer",
+            "startDate": "2020-03-01",
             "challenges": [
               {
-                "description": "During my time at IBM Research, I've worked on multiple projects helping researchers to take lav innovations to real products level.\n\nMost of my experience was with IBM Quantum where I've worked at the microservices team helping to create an architecture that could last in the time."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "antlr4",
-                "type": "technology"
-              },
-              {
-                "name": "loopbackjs",
-                "type": "technology"
-              },
-              {
-                "name": "visual-studio-code",
-                "type": "technology"
-              },
-              {
-                "name": "nestjs",
-                "type": "technology"
+                "description": "I help with the organization of 3x3 basketball tournaments. I am next to the court taking notes of every match second by second in order to record properly the development of the event."
               }
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Otogami"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2014-01-01",
-            "finishDate": "2017-02-28",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Groovy",
-                "type": "technology"
-              },
-              {
-                "name": "shiro",
-                "type": "technology"
-              },
-              {
-                "name": "antlr",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "details": {
-          "name": "NATS extension for k6",
-          "description": "This is a k6 extension using the xk6 system, that allows to use NATS protocol.",
-          "URL": "https://github.com/ydarias/xk6-nats",
-          "image": {
-            "alt": "Microsoft.VisualStudio.Services.Icons.Default.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/48e004c1-9a1a-4e32-87ae-90949f7fd6cd_microsoft.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-11-01",
-            "competences": [
-              {
-                "name": "Go",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Qiskit Studio",
-          "description": "A Visual Studio Code extension with support for Qiskit and the OpenQASM language. It provides some useful commands to make easier launching jobs and visualizing results among others.",
-          "URL": "https://github.com/qiskit-community/qiskit-vscode",
-          "image": {
-            "alt": "unnamed.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/eaa95a69-c7e8-4786-a9ee-048dd4009f41_unnamed.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-06-01",
-            "finishDate": "2019-10-01",
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Dev Story Scraper",
-          "description": "With this code, you will survive \"the StackOverflowgeddon\", the discontinuation of the «Developer Story» feature on Stack Overflow, which means that more than 4 million people will lose the professional data forever. This script scraps and downloads your data contained in a Dev Story (using its public URL) as a JSON file, compliant with the open-source MAC (Manfred Awesomic CV) format. ",
-          "URL": "https://github.com/getmanfred/dev-story-scraper",
-          "image": {
-            "alt": "SOgeddon_landing_capture.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/878cfa83-1d12-4d99-8b10-e827b2f428f5_sogeddon_landing_cap.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-02-01",
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Axios",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "Startup Weekend Tenerife 2013 winners",
-          "description": "That's it we won."
-        },
-        "type": "achievement",
-        "publishingDate": "2013-04-01",
-        "relatedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "My category of Milestone"
-        ]
-      },
-      {
-        "details": {
-          "name": "The Java and the Furious (JMX)",
-          "description": "Talk given at Codemotion 2016 in Madrid about how to measure (Java) code speed and health with JMX.",
-          "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
-          "image": {
-            "alt": "The Java and the Furious (JMX)",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/fdcbbc61-89fb-467f-b0ae-606e3bc9bdcd_699b0d81-64cd-4ff7-a.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-11-01",
-        "relatedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "jmx",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Runnics en Betabeers Madrid",
-          "description": "El viernes pasado me invitaron a dar una charla sobre Runnics en el Betabeers de Madrid, y al parecer gustó bastante, razón por la cual ...",
-          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
-          "image": {
-            "alt": "Runnics en Betabeers Madrid",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/ba644b06-06e7-4df0-9a1f-1945b37b0ab9_a3876468-b2b5-4cd7-a.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-09-01"
-      },
-      {
-        "details": {
-          "name": "BetaBeers Salamanca",
-          "description": "These are the slides of my talk about my experience (a kind of postmortem) in Runnics given at BetaBeers Salamanca.",
-          "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
-          "image": {
-            "alt": "BetaBeers Salamanca",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/23/3312f1a1-475d-4f94-b2ed-3f32f057e606_4b615c3b-9a1f-4c63-a.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2018-01-01"
       }
     ]
   },
@@ -450,36 +80,101 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Excel",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
+        "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Bsc in Computer Science",
-        "startDate": "1998-09-01",
-        "finishDate": "2005-12-01",
+        "name": "Intensive English Program: Culture and English as a Second Lenguage",
+        "startDate": "2018-07-01",
+        "finishDate": "2019-08-01",
         "institution": {
-          "name": "Universidad de la Laguna",
-          "description": "I got my Bsc in Computer Science at University of La Laguna. I didn't only learn technical skills, but also some interesting softskills and problem solving skills.",
-          "URL": "https://www.ull.es/",
+          "name": "University of Dayton",
+          "description": "I coursed for a month at Dayton University as part of an exchange plan. The aim was to take an immersive and intensive view of the Nort-American culture and to develop my language skills",
+          "URL": "https://udayton.edu/international/iep/index.php",
           "image": {
-            "alt": "Logo_ULL_2018.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/75791155-7554-4b19-87e1-cc5f94dba136_logo_ull_2018.png"
+            "alt": "download (2).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/2df2ea8b-cbff-44e0-a052-c867344ff683_download-(2).png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificate of Proficency in English (CPE)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-12-01",
+        "institution": {
+          "name": "Cambridge Assesment English ",
+          "description": "",
+          "URL": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/48d3001a-b95b-444d-9902-13c66fdfa6c1_unnamed.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Working in a Digital World: Professional Skills.",
+        "startDate": "2020-05-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "I.B.M.",
+          "description": "A course imparted by IBM that focuses on soft professional skills as making presentations, solving problems, organizing a team, along with others.",
+          "URL": "https://www.credly.com/org/ibm-skillsbuild/badge/working-in-a-digital-world-professional-skills",
+          "image": {
+            "alt": "png-transparent-ibm-logo-think-ibm-blue-angle-text.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/711ef5e6-46a7-4a7d-bcd7-ce881ca561a3_png-transparent-ibm-.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Software Engineer Dregree",
+        "startDate": "2020-04-01",
+        "institution": {
+          "name": "Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA)",
+          "description": "",
+          "URL": "https://www.fi.uba.ar/",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/4b17d9c0-4907-450e-86a2-5a341e3e4ae6_download-(1).png"
           }
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Python",
             "type": "technology"
           },
           {
@@ -487,7 +182,7 @@
             "type": "technology"
           },
           {
-            "name": "Pascal",
+            "name": "Git",
             "type": "technology"
           }
         ]
@@ -495,32 +190,22 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/luca-salluzzi-9b47301b7/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "C",
           "type": "technology"
         },
         {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": "Go",
-          "type": "technology"
-        },
-        {
-          "name": "Kotlin",
-          "type": "technology"
-        },
-        {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "PHP",
+          "name": "Python",
           "type": "technology"
         }
       ]
