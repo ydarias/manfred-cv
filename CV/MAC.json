@@ -405,6 +405,19 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Code vs NoCode",
+          "description": "I talked about how we used NoCode solutions during the first years of Manfred and we got to bill more than 1.5M€ during 2021. But also about why we need to use code solutions too to solve other kinds of problems.\n\nThe talk was posted on Youtube (in Spanish); link: https://youtu.be/8m0JYqsKfFg?t=2839",
+          "URL": "https://speakerdeck.com/ydarias/no-code-vs-code",
+          "image": {
+            "alt": "2022-06-10 at 12.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/bf335119-9885-45d8-b257-bf0d8e2dc764_2022-06-10-at-12.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-05-01"
+      },
+      {
+        "details": {
           "name": "BetaBeers Salamanca",
           "description": "These are the slides of my talk about my experience (a kind of postmortem) in Runnics given at BetaBeers Salamanca.",
           "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
