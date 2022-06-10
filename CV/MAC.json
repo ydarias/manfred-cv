@@ -272,24 +272,6 @@
       },
       {
         "organization": {
-          "name": "AvanTIC Estudio de Ingenieros",
-          "URL": "https://www.linkedin.com/company/avantic-estudio-de-ingenieros?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2007-10-01",
-            "finishDate": "2014-01-31",
-            "challenges": [
-              {
-                "description": "En esta pequeña compañía he tenido la oportunidad de evolucionar y aprender, no sólo participando en pequeños desarrollos, sino encargándome del desarrollo de aplicaciones completas para algunos de nuestros clientes. En los primeros años evolucionamos pasando de hacer uso de JSF a un enfoque de arquitectura hexagonal, haciendo uso de Spring MVC y sistemas REST para nuestras soluciones lo que nos otorgó mucha más flexibilidad. Durante el año 2010 tome el rol de evangelista de metodologías ágiles en la empresa y me encargue de su introducción, lo que consolidó nuestra relaciones con nuestros cliente e incrementó la calidad de nuestros productos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "General de Software de Canarias",
           "URL": "https://www.linkedin.com/company/general-de-software-de-canarias-s.a.u.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
