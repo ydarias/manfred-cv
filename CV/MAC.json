@@ -108,57 +108,6 @@
       },
       {
         "organization": {
-          "name": "IBM Research"
-        },
-        "roles": [
-          {
-            "name": "Backend specialist",
-            "startDate": "2018-02-01",
-            "finishDate": "2022-02-28",
-            "challenges": [
-              {
-                "description": "During my time at IBM Research, I've worked on multiple projects helping researchers to take lav innovations to real products level.\n\nMost of my experience was with IBM Quantum where I've worked at the microservices team helping to create an architecture that could last in the time."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "antlr4",
-                "type": "technology"
-              },
-              {
-                "name": "loopbackjs",
-                "type": "technology"
-              },
-              {
-                "name": "nestjs",
-                "type": "technology"
-              },
-              {
-                "name": "visual-studio-code",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "IBM",
           "URL": "https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
