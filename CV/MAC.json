@@ -543,17 +543,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniero Técnico Informática de Gestión",
-        "startDate": "1998-01-01",
-        "finishDate": "2004-12-31",
-        "institution": {
-          "name": "Universidad de La Laguna",
-          "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click"
-        }
       }
     ]
   },
