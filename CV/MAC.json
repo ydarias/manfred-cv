@@ -31,6 +31,10 @@
         "URL": "https://twitter.com/ydarias"
       },
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ydarias/"
+      },
+      {
         "type": "other",
         "URL": "https://ydarias.github.io/"
       }
@@ -560,6 +564,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/ydarias/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
