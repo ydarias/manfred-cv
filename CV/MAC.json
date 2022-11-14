@@ -418,18 +418,7 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "TypeScript",
@@ -439,6 +428,12 @@
       {
         "skill": {
           "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       }
