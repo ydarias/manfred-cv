@@ -427,13 +427,13 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "NodeJS",
           "type": "technology"
         }
       }
