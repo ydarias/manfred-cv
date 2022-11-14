@@ -73,17 +73,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred "
         },
         "roles": [
@@ -429,10 +418,15 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -444,7 +438,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "NodeJS",
           "type": "technology"
         }
       }
