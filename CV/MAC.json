@@ -164,7 +164,12 @@
           {
             "name": "Software Developer",
             "startDate": "2014-01-01",
-            "finishDate": "2017-02-28"
+            "finishDate": "2017-02-28",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -176,7 +181,12 @@
           {
             "name": "Software Developer",
             "startDate": "2007-11-01",
-            "finishDate": "2013-12-31"
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -288,6 +298,7 @@
       {
         "details": {
           "name": "Qiskit VSCode",
+          "description": "",
           "URL": "https://github.com/Qiskit/qiskit-vscode"
         },
         "type": "sideProject",
@@ -340,7 +351,10 @@
           }
         },
         "type": "talk",
-        "publishingDate": "2022-05-01"
+        "publishingDate": "2022-05-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
@@ -519,11 +533,6 @@
           "name": "PHP",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "Developer Evangelist & Advocate",
-        "Tech Lead"
       ]
     },
     "status": "notAvailable"
