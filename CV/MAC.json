@@ -533,6 +533,11 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Developer Evangelist & Advocate",
+        "Tech Lead"
       ]
     },
     "status": "notAvailable"
