@@ -351,7 +351,11 @@
       {
         "details": {
           "name": "Ganador del Startup Weekend Tenerife",
-          "description": "Issued by Startup Weekend Tenerife"
+          "description": "Issued by Startup Weekend Tenerife",
+          "image": {
+            "alt": "startupweekend-w640.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/16/eaead568-fb5a-4b73-acfb-75e617fb9654_startupweekend-w640.jpg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2013-02-01"
