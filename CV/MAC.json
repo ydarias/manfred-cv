@@ -458,6 +458,18 @@
       },
       {
         "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
