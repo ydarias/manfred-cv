@@ -152,18 +152,6 @@
       },
       {
         "organization": {
-          "name": "Avantic Estudio de Ingenieros"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2007-11-01",
-            "finishDate": "2013-12-31"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "AvanTIC Estudio de Ingenieros"
         },
         "roles": [
