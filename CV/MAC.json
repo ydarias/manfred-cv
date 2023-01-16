@@ -350,23 +350,6 @@
       },
       {
         "details": {
-          "name": "Startup Weekend Tenerife 2013 winners",
-          "description": "That's it we won."
-        },
-        "type": "achievement",
-        "publishingDate": "2013-04-01",
-        "relatedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "My category of Milestone"
-        ]
-      },
-      {
-        "details": {
           "name": "Ganador del Startup Weekend Tenerife",
           "description": "Issued by Startup Weekend Tenerife"
         },
