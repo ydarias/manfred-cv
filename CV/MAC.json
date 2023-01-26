@@ -257,19 +257,6 @@
       },
       {
         "details": {
-          "name": "Life",
-          "description": "This is a test"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "1980-07-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Qiskit Studio",
           "description": "A Visual Studio Code extension with support for Qiskit and the OpenQASM language. It provides some useful commands to make easier launching jobs and visualizing results among others.",
           "URL": "https://github.com/qiskit-community/qiskit-vscode",
