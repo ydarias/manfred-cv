@@ -363,14 +363,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -473,11 +465,6 @@
           "name": "PHP",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "Developer Evangelist & Advocate",
-        "Tech Lead"
       ]
     }
   }
