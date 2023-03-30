@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,6 @@
       "name": "Yeray",
       "surnames": "Darias Camacho",
       "title": "Developer and cookie's policy baker at Manfred",
-      "description": "",
       "avatar": {
         "alt": "avatar_square_small.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/0ec02668-07ba-4df7-9ffa-4f0989e7a580_8a7c7356-44cc-4585-b.jpg"
@@ -40,168 +39,31 @@
         "title": "Building Evolutionary Architectures: Support Constant Change",
         "type": "reading",
         "URL": "https://www.amazon.es/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360/ref=sr_1_1?keywords=evolutionary+architectures&qid=1647938164&sprefix=evolutionary%2Caps%2C88&sr=8-1",
+        "summary": "This is a great book to learn how to build software that resists over time. Making things simple, using the scientific method to measure what is important, and taking decisions that helps the team to maintain the codebase.",
         "authors": [
           {
             "name": "Neal",
             "surnames": "Ford",
             "title": "Author"
           }
-        ],
-        "summary": "This is a great book to learn how to build software that resists over time. Making things simple, using the scientific method to measure what is important, and taking decisions that helps the team to maintain the codebase."
+        ]
       },
       {
         "title": "How Real Leaders Melt The Iceberg of Ignorance With Humility",
         "type": "reading",
         "URL": "https://corporate-rebels.com/iceberg-of-ignorance/",
+        "summary": "Humility is a required skill for leaders to get more openness from people reporting to them. This prevents being ignorant of structural problems.",
         "authors": [
           {
             "name": "Joost",
             "surnames": "Minnaar",
             "title": "Author"
           }
-        ],
-        "summary": "Humility is a required skill for leaders to get more openness from people reporting to them. This prevents being ignorant of structural problems."
+        ]
       }
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Manfred "
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM"
-        },
-        "roles": [
-          {
-            "name": "Software Developer @ IBM Research",
-            "startDate": "2018-02-01",
-            "finishDate": "2022-02-28",
-            "challenges": [
-              {
-                "description": "As part of the ETX team, my job is to build new products with awesome brand new technologies from the IBM Research labs. From Visual Studio Code plugins helping developers to create Quantum programs to a diversity of applications based in the last studies about AI. We work in different technologies, and we use the most suitable one for each situation, but my expertise is backend development with Java technologies, from monolithic architectures to microservices depending on the necessities."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Fon"
-        },
-        "roles": [
-          {
-            "name": "Software developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28",
-            "challenges": [
-              {
-                "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía.\n\nA nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "8Kdata"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2016-04-01",
-            "finishDate": "2017-02-28",
-            "challenges": [
-              {
-                "description": "Me he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar. Como viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Otogami"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2014-01-01",
-            "finishDate": "2017-02-28",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "AvanTIC Estudio de Ingenieros"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2007-10-01",
-            "finishDate": "2014-01-31",
-            "challenges": [
-              {
-                "description": "En esta pequeña compañía he tenido la oportunidad de evolucionar y aprender, no sólo participando en pequeños desarrollos, sino encargándome del desarrollo de aplicaciones completas para algunos de nuestros clientes. En los primeros años evolucionamos pasando de hacer uso de JSF a un enfoque de arquitectura hexagonal, haciendo uso de Spring MVC y sistemas REST para nuestras soluciones lo que nos otorgó mucha más flexibilidad.\n\nDurante el año 2010 tome el rol de evangelista de metodologías ágiles en la empresa y me encargue de su introducción, lo que consolidó nuestra relaciones con nuestros cliente e incrementó la calidad de nuestros productos.\n"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "General de Software de Canarias"
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2007-03-01",
-            "finishDate": "2007-10-31",
-            "challenges": [
-              {
-                "description": "Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource. Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sistemas de Datos"
-        },
-        "roles": [
-          {
-            "name": "Prácticas en Empresa",
-            "startDate": "2005-12-01",
-            "finishDate": "2006-08-31",
-            "challenges": [
-              {
-                "description": "Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos. Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -297,23 +159,7 @@
           }
         },
         "type": "talk",
-        "publishingDate": "2022-05-01",
-        "tags": [
-          ""
-        ]
-      },
-      {
-        "details": {
-          "name": "BetaBeers Salamanca",
-          "description": "These are the slides of my talk about my experience (a kind of postmortem) in Runnics given at BetaBeers Salamanca.",
-          "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
-          "image": {
-            "alt": "BetaBeers Salamanca",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/9898b9fd-d961-4b8b-b5ae-95b0a97c4e0a_3312f1a1-475d-4f94-b.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2018-01-01"
+        "publishingDate": "2022-05-01"
       },
       {
         "details": {
@@ -361,22 +207,19 @@
           }
         },
         "type": "achievement",
-        "publishingDate": "2013-02-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2013-02-01"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
-      },
-      {
         "name": "Spanish",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
