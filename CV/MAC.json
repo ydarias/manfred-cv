@@ -150,64 +150,34 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Code vs NoCode",
-          "description": "I talked about how we used NoCode solutions during the first years of Manfred and we got to bill more than 1.5M€ during 2021. But also about why we need to use code solutions too to solve other kinds of problems.\n\nThe talk was posted on Youtube (in Spanish); link: https://youtu.be/8m0JYqsKfFg?t=2839",
-          "URL": "https://speakerdeck.com/ydarias/no-code-vs-code",
-          "image": {
-            "alt": "2022-06-10 at 12.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/bf335119-9885-45d8-b257-bf0d8e2dc764_2022-06-10-at-12.png"
-          }
+          "name": "This is a good test highlight",
+          "description": "A good description is very valuable, but I have no time ^_^",
+          "URL": "https://www.google.com"
         },
         "type": "talk",
-        "publishingDate": "2022-05-01"
-      },
-      {
-        "details": {
-          "name": "The Java and the Furious (JMX)",
-          "description": "Talk given at Codemotion 2016 in Madrid about how to measure (Java) code speed and health with JMX.",
-          "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
-          "image": {
-            "alt": "The Java and the Furious (JMX)",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/39d37626-c68c-42ef-bf58-7666984d4b74_fdcbbc61-89fb-467f-b.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-11-01",
+        "publishingDate": "2022-10-05",
         "relatedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Git",
             "type": "technology"
           },
           {
-            "name": "jmx",
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Pulumi",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
             "type": "technology"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Runnics en Betabeers Madrid",
-          "description": "El viernes pasado me invitaron a dar una charla sobre Runnics en el Betabeers de Madrid, y al parecer gustó bastante, razón por la cual ...",
-          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
-          "image": {
-            "alt": "Runnics en Betabeers Madrid",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/15850c0f-91f3-49a2-a95e-bff9820d05cf_ba644b06-06e7-4df0-9.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-09-01"
-      },
-      {
-        "details": {
-          "name": "Ganador del Startup Weekend Tenerife",
-          "description": "Issued by Startup Weekend Tenerife",
-          "image": {
-            "alt": "startupweekend-w640.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/16/eaead568-fb5a-4b73-acfb-75e617fb9654_startupweekend-w640.jpg"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2013-02-01"
       }
     ]
   },
