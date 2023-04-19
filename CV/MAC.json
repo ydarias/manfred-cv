@@ -317,14 +317,6 @@
     ]
   },
   "careerPreferences": {
-    "preferences": {
-      "discardedCompetences": [
-        {
-          "name": "PHP",
-          "type": "technology"
-        }
-      ]
-    },
     "status": "notAvailable"
   }
 }
