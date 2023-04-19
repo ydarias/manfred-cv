@@ -318,28 +318,6 @@
   },
   "careerPreferences": {
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "Go",
-          "type": "technology"
-        },
-        {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "Kotlin",
-          "type": "technology"
-        },
-        {
-          "name": "PostgreSQL",
-          "type": "technology"
-        },
-        {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      ],
       "discardedCompetences": [
         {
           "name": "PHP",
