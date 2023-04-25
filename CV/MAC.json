@@ -516,6 +516,12 @@
           "name": "nestJS",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
