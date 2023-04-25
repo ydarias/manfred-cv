@@ -87,7 +87,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred "
+          "name": "Manfred ",
+          "image": {
+            "alt": "Sin título.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/0e270933-acfb-4731-bed8-5a48d5e9569b_sin-titulo.jpg"
+          },
+          "URL": "https://getmanfred.com"
         },
         "roles": [
           {
