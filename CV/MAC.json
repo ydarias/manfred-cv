@@ -450,6 +450,12 @@
           "name": "Spring",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
