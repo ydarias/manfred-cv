@@ -328,6 +328,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Hibernate",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
