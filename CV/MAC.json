@@ -228,13 +228,35 @@
       },
       {
         "organization": {
-          "name": "Otogami"
+          "name": "Otogami",
+          "image": {
+            "alt": "Sin título.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/772e65af-0079-464f-8459-09e82b352bb8_sin-titulo.png"
+          }
         },
         "roles": [
           {
             "name": "Software Developer",
             "startDate": "2014-01-01",
-            "finishDate": "2017-02-28"
+            "finishDate": "2017-02-28",
+            "competences": [
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
