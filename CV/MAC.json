@@ -486,6 +486,12 @@
           "name": "RabbitMQ",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
