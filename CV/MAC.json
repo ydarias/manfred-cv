@@ -474,6 +474,12 @@
           "name": "Scala",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
