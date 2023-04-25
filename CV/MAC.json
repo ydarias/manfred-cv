@@ -572,6 +572,16 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Ticket de la feria del pueblo",
+        "startDate": "1980-02-01",
+        "institution": {
+          "name": "Foo",
+          "description": "Foo bat"
+        }
       }
     ]
   },
@@ -640,6 +650,10 @@
   },
   "asgardPreferences": {
     "mainStackTechs": [
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
       {
         "name": "TypeScript",
         "type": "technology"
