@@ -428,6 +428,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Bulgarian",
+        "level": "Professional working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
