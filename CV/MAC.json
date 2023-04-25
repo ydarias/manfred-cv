@@ -468,6 +468,12 @@
           "name": "Groovy",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Scala",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
