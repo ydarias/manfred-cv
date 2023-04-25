@@ -325,6 +325,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
     "status": "notAvailable"
   }
 }
