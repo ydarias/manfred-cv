@@ -456,6 +456,12 @@
           "name": "Spring Boot",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
