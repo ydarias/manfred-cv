@@ -498,6 +498,12 @@
           "name": "IBM Cloud",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
