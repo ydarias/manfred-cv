@@ -271,6 +271,37 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Winner at Startup Weekend Tenerife 2013",
+          "description": "In 2013 with a group of friends, we won the Startup Weekend Tenerife 2013. The idea was an agenda for events that was able to adapt to the special characteristics of technical events, where speakers and rooms change.",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7ef3e821-6bb0-4709-a920-047300cd29fd_logo.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2013-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Backbone",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Product development"
+        ]
+      }
     ]
   },
   "knowledge": {
