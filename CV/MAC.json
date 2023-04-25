@@ -430,16 +430,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "Catalan",
+        "name": "Spanish",
         "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Chinese",
-        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
