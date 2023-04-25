@@ -67,6 +67,19 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "How tests support refactoring",
+        "type": "reading",
+        "URL": "https://blog.thecodewhisperer.com/permalink/how-tests-support-refactoring",
+        "summary": "The promise of tests is not being faster, is being safer, and how they support refactor. It is about being a safety net, not about being an engine.",
+        "authors": [
+          {
+            "name": "J.B.",
+            "surnames": "Reinsberger",
+            "title": "Author"
+          }
+        ]
       }
     ]
   },
