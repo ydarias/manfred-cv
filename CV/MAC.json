@@ -534,6 +534,12 @@
           "name": "Mockito",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
