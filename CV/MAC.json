@@ -369,12 +369,6 @@
           "name": "PHP",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "Engineering Management",
-        "Software Architect",
-        "Tech Lead"
       ]
     },
     "status": "notAvailable"
