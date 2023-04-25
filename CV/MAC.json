@@ -480,6 +480,12 @@
           "name": "PostgreSQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
