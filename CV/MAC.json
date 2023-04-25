@@ -432,10 +432,6 @@
       {
         "name": "Spanish",
         "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "English",
-        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
@@ -568,7 +564,23 @@
             "type": "technology"
           },
           {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
             "name": "Pascal",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "R",
             "type": "technology"
           }
         ]
