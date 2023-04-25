@@ -338,6 +338,14 @@
         {
           "name": "PostgreSQL",
           "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
