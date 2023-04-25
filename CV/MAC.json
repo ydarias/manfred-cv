@@ -330,6 +330,10 @@
         {
           "name": "JAVA",
           "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
