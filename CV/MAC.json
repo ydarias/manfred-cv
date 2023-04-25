@@ -108,7 +108,12 @@
       },
       {
         "organization": {
-          "name": "IBM"
+          "name": "IBM",
+          "image": {
+            "alt": "400164328.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/dc2ec8dd-a7ca-4018-af45-4c51a723646b_400164328.jpg"
+          },
+          "URL": "https://research.ibm.com/"
         },
         "roles": [
           {
@@ -118,6 +123,40 @@
             "challenges": [
               {
                 "description": "As part of the ETX team, my job is to build new products with awesome brand new technologies from the IBM Research labs. From Visual Studio Code plugins helping developers to create Quantum programs to a diversity of applications based in the last studies about AI. We work in different technologies, and we use the most suitable one for each situation, but my expertise is backend development with Java technologies, from monolithic architectures to microservices depending on the necessities."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
               }
             ]
           }
