@@ -492,6 +492,12 @@
           "name": "AWS",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "IBM Cloud",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
