@@ -528,6 +528,12 @@
           "name": "Go",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
