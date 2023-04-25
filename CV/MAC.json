@@ -164,7 +164,11 @@
       },
       {
         "organization": {
-          "name": "Fon"
+          "name": "Fon",
+          "image": {
+            "alt": "fontech.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7f134f9c-19f9-4b60-af11-6342e119477e_fontech.png"
+          }
         },
         "roles": [
           {
@@ -174,6 +178,32 @@
             "challenges": [
               {
                 "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía.\n\nA nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
               }
             ]
           }
