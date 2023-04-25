@@ -15,6 +15,12 @@
         "notes": "Autocompleted using Google Maps API"
       }
     },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ydarias"
+      }
+    ],
     "recommendations": [
       {
         "title": "Building Evolutionary Architectures: Support Constant Change",
@@ -306,6 +312,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/ydarias"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
