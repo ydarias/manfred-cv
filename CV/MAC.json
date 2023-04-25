@@ -327,7 +327,8 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "Tech Lead"
       ]
     },
     "status": "notAvailable"
