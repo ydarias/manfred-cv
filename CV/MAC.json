@@ -522,6 +522,12 @@
           "name": "MongoDB",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
