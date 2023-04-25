@@ -27,6 +27,12 @@
         "URL": "https://linkedin.com/in/ydarias"
       }
     ],
+    "interestingFacts": [
+      {
+        "topic": "What was your first computer?",
+        "fact": "MSX"
+      }
+    ],
     "recommendations": [
       {
         "title": "Building Evolutionary Architectures: Support Constant Change",
