@@ -310,22 +310,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "a"
-        },
-        "roles": [
-          {
-            "name": "a",
-            "startDate": "1980-02-01",
-            "challenges": [
-              {
-                "description": "foo"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
