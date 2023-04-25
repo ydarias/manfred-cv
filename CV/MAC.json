@@ -462,6 +462,12 @@
           "name": "Hibernate",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
