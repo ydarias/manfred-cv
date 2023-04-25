@@ -29,6 +29,10 @@
     ],
     "interestingFacts": [
       {
+        "topic": "Which was your first videogame console?",
+        "fact": "Besides a \"fake\" NES, a Sega Mega Drive."
+      },
+      {
         "topic": "What was your first computer?",
         "fact": "MSX"
       }
