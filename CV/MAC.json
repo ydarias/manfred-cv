@@ -6,12 +6,17 @@
   },
   "aboutMe": {
     "profile": {
+      "name": "Yeray",
+      "surnames": "Darias Camacho",
       "title": "Developer and cookie's policy baker at Manfred",
       "avatar": {
         "alt": "avatar_square_small.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/0ec02668-07ba-4df7-9ffa-4f0989e7a580_8a7c7356-44cc-4585-b.jpg"
       },
       "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
         "notes": "Autocompleted using Google Maps API"
       }
     },
