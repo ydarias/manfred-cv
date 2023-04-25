@@ -444,6 +444,12 @@
           "name": "JAVA",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
