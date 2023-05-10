@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/ydarias"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ydarias"
       }
     ],
     "interestingFacts": [
@@ -597,6 +601,10 @@
         {
           "type": "linkedin",
           "URL": "https://linkedin.com/in/ydarias"
+        },
+        {
+          "type": "other",
+          "URL": "https://twitter.com/ydarias"
         }
       ]
     },
