@@ -9,28 +9,18 @@
       "name": "Yeray",
       "surnames": "Darias Camacho",
       "title": "Developer and cookie's policy baker at Manfred",
-      "description": "I have more than 15 years developing software. I started in a boutique-type consultancy firm, where I learned a lot of good practices and technical skills.\n\n7 years later I moved to a startup called Otogami where a small team of 4 developed a product from nothing. It wasn't technically impressive, but we learned a lot about product development. Best products are not always the ones with the best technologies or code, it requires a good balance between time to market, good enough, and avoiding analysis paralysis.\n\nI kept working in companies with a product instead of developing software for a third party. Though I like it, I prefer to work on a product, since it requires a different set of skills. I worked at Fon's home WiFi solution, and later at IBM Quantum project.",
+      "description": "I have more than 15 years developing software. I started in a boutique-type consultancy firm, where I learned a lot of good practices and technical skills.\n\n7 years later I moved to a startup called Otogami where a small team of 4 developed a product from nothing. It wasn't technically impressive, but we learned a lot about product development. Best products are not always the ones with the best technologies or code, it requires a good balance between time to market, good enough, and avoiding analysis paralysis.\n\nI kept working in companies with a product instead of developing software for a third party. Though I like it, I prefer to work on a product, since it requires a different set of skills. I've worked at Fon's home WiFi solution, and later at IBM Quantum project.",
       "avatar": {
-        "alt": "avatar_square_small.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/0ec02668-07ba-4df7-9ffa-4f0989e7a580_8a7c7356-44cc-4585-b.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/0ec02668-07ba-4df7-9ffa-4f0989e7a580_8a7c7356-44cc-4585-b.jpg",
+        "alt": "avatar_square_small.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://linkedin.com/in/ydarias"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/ydarias"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Which was your first videogame console?",
@@ -93,8 +83,8 @@
         "organization": {
           "name": "Manfred ",
           "image": {
-            "alt": "Sin título.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/0e270933-acfb-4731-bed8-5a48d5e9569b_sin-titulo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/0e270933-acfb-4731-bed8-5a48d5e9569b_sin-titulo.jpg",
+            "alt": "Sin título.jpg"
           },
           "URL": "https://getmanfred.com"
         },
@@ -114,8 +104,8 @@
         "organization": {
           "name": "IBM",
           "image": {
-            "alt": "400164328.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/dc2ec8dd-a7ca-4018-af45-4c51a723646b_400164328.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/dc2ec8dd-a7ca-4018-af45-4c51a723646b_400164328.jpg",
+            "alt": "400164328.jpg"
           },
           "URL": "https://research.ibm.com/"
         },
@@ -170,8 +160,8 @@
         "organization": {
           "name": "Fon",
           "image": {
-            "alt": "fontech.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7f134f9c-19f9-4b60-af11-6342e119477e_fontech.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7f134f9c-19f9-4b60-af11-6342e119477e_fontech.png",
+            "alt": "fontech.png"
           }
         },
         "roles": [
@@ -234,8 +224,8 @@
         "organization": {
           "name": "Otogami",
           "image": {
-            "alt": "Sin título.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/772e65af-0079-464f-8459-09e82b352bb8_sin-titulo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/772e65af-0079-464f-8459-09e82b352bb8_sin-titulo.png",
+            "alt": "Sin título.png"
           }
         },
         "roles": [
@@ -323,8 +313,8 @@
           "description": "With this code, you will survive \"the StackOverflowgeddon\", the discontinuation of the «Developer Story» feature on Stack Overflow, which means that more than 4 million people will lose the professional data forever. This script scraps and downloads your data contained in a Dev Story (using its public URL) as a JSON file, compliant with the open-source MAC (Manfred Awesomic CV) format. ",
           "URL": "https://github.com/getmanfred/dev-story-scraper",
           "image": {
-            "alt": "SOgeddon_landing_capture.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/683a3c86-48df-4fa4-a24b-467d31383dcd_878cfa83-1d12-4d99-8.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/683a3c86-48df-4fa4-a24b-467d31383dcd_878cfa83-1d12-4d99-8.jpg",
+            "alt": "SOgeddon_landing_capture.jpg"
           }
         },
         "type": "openSource",
@@ -351,8 +341,8 @@
           "description": "This is a k6 extension using the xk6 system, that allows to use NATS protocol.",
           "URL": "https://github.com/ydarias/xk6-nats",
           "image": {
-            "alt": "Microsoft.VisualStudio.Services.Icons.Default.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/ebb70257-201d-42c0-8227-997b9f0fc769_48e004c1-9a1a-4e32-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/ebb70257-201d-42c0-8227-997b9f0fc769_48e004c1-9a1a-4e32-8.png",
+            "alt": "Microsoft.VisualStudio.Services.Icons.Default.png"
           }
         },
         "type": "openSource",
@@ -375,8 +365,8 @@
           "description": "A Visual Studio Code extension with support for Qiskit and the OpenQASM language. It provides some useful commands to make easier launching jobs and visualizing results among others.",
           "URL": "https://github.com/qiskit-community/qiskit-vscode",
           "image": {
-            "alt": "unnamed.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/3c4b3673-7050-4b62-aa9a-5b290d53d0e5_eaa95a69-c7e8-4786-a.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/3c4b3673-7050-4b62-aa9a-5b290d53d0e5_eaa95a69-c7e8-4786-a.jpg",
+            "alt": "unnamed.jpg"
           }
         },
         "type": "openSource",
@@ -384,7 +374,6 @@
           {
             "name": "Developer",
             "startDate": "2018-06-01",
-            "finishDate": "2019-10-01",
             "competences": [
               {
                 "name": "TypeScript",
@@ -394,7 +383,8 @@
                 "name": "visual-studio-code",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2019-10-01"
           }
         ]
       }
@@ -405,12 +395,15 @@
           "name": "Winner at Startup Weekend Tenerife 2013",
           "description": "In 2013 with a group of friends, we won the Startup Weekend Tenerife 2013. The idea was an agenda for events that was able to adapt to the special characteristics of technical events, where speakers and rooms change.",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7ef3e821-6bb0-4709-a920-047300cd29fd_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7ef3e821-6bb0-4709-a920-047300cd29fd_logo.png",
+            "alt": "logo.png"
           }
         },
         "type": "achievement",
         "publishingDate": "2013-03-01",
+        "tags": [
+          "Product development"
+        ],
         "relatedCompetences": [
           {
             "name": "Backbone",
@@ -424,9 +417,6 @@
             "name": "NodeJS",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Product development"
         ]
       }
     ]
@@ -434,36 +424,24 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
-      },
-      {
         "name": "English",
         "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hibernate",
+          "name": "Go",
           "type": "technology"
         }
       },
@@ -475,7 +453,37 @@
       },
       {
         "skill": {
-          "name": "Scala",
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "IBM Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -493,19 +501,19 @@
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Scala",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "IBM Cloud",
+          "name": "Spring",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
@@ -517,31 +525,13 @@
       },
       {
         "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "nestJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Go",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mockito",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
           "type": "technology"
         }
       }
@@ -552,16 +542,16 @@
         "degreeAchieved": true,
         "name": "Bsc in Computer Science",
         "startDate": "1998-09-01",
-        "finishDate": "2005-12-01",
         "institution": {
           "name": "Universidad de la Laguna",
           "description": "I got my Bsc in Computer Science at University of La Laguna. I didn't only learn technical skills, but also some interesting softskills and problem solving skills.",
           "URL": "https://www.ull.es/",
           "image": {
-            "alt": "Logo_ULL_2018.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/e5a0a735-8604-450e-9c06-fbe5c29c6f30_75791155-7554-4b19-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/e5a0a735-8604-450e-9c06-fbe5c29c6f30_75791155-7554-4b19-8.png",
+            "alt": "Logo_ULL_2018.png"
           }
         },
+        "finishDate": "2005-12-01",
         "linkedCompetences": [
           {
             "name": "C",
@@ -593,18 +583,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/ydarias"
+          "URL": "https://linkedin.com/in/ydarias",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://twitter.com/ydarias"
+          "URL": "https://twitter.com/ydarias",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "ydarias@protonmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "636508097",
+          "countryCode": "+34"
         }
       ]
     },
@@ -662,14 +681,14 @@
     },
     "status": "notAvailable"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "PostgreSQL",
+        "name": "Jest",
         "type": "technology"
       },
       {
-        "name": "TypeScript",
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
@@ -677,12 +696,25 @@
         "type": "technology"
       },
       {
-        "name": "nestJS",
+        "name": "TypeScript",
         "type": "technology"
       },
       {
-        "name": "Jest",
+        "name": "nestJS",
         "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I am not interested in any special technology, but a good product that solves real-life problems. I care a lot about the team and company's culture too, I prefer teams that are able to improve continually and always search for new ways to do things.",
+    "goodPractices": "I am not a dogmatic person, I use tools as they help me to complete good work, whatever good means in that context.\n\nDuring the years the ones that gave me good results are:\n* Hexagonal Architecture.\n* Evolutionary Architecture.\n* Test-Driven Development.\n* Lean\n\nPrevious practices do not allow me to be fast from day one, but definitely allow me to be very fast in the long term, which is more important.",
+    "projects": [
+      {
+        "name": "Dev Story Scraper"
+      },
+      {
+        "name": "NATS extension for k6"
+      },
+      {
+        "name": "Qiskit Studio"
       }
     ]
   }
