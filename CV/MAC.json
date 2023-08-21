@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -587,19 +587,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Adaptability to change",
+          "name": "Adaptabilidad al cambio",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Continuous learning",
+          "name": "Aprendizaje Continuo",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Team player",
+          "name": "Trabajo en equipo",
           "type": "practice"
         }
       }
@@ -614,7 +614,7 @@
         },
         {
           "URL": "https://twitter.com/ydarias",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
@@ -715,6 +715,17 @@
       },
       {
         "name": "Qiskit Studio"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Building Evolutionary Architectures: Support Constant Change"
+      },
+      {
+        "name": "How Real Leaders Melt The Iceberg of Ignorance With Humility"
+      },
+      {
+        "name": "How tests support refactoring"
       }
     ]
   }
