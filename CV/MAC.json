@@ -679,12 +679,16 @@
         "Tech Lead"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
       {
         "name": "Jest",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
