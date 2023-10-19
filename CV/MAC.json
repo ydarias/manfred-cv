@@ -684,7 +684,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "TypeORM",
+        "type": "technology"
+      },
+      {
         "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "nestJS",
         "type": "technology"
       }
     ],
