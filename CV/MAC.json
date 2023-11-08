@@ -75,6 +75,16 @@
           }
         ]
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ydarias"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ydarias"
+      }
     ]
   },
   "experience": {
