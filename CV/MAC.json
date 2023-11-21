@@ -685,11 +685,10 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
-        "Tech Lead"
+        "Backend Developer"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
