@@ -8,11 +8,11 @@
     "profile": {
       "name": "Yeray",
       "surnames": "Darias Camacho",
-      "title": "Developer and cookie's policy baker at Manfred",
-      "description": "I have more than 15 years developing software. I started in a boutique-type consultancy firm, where I learned a lot of good practices and technical skills.\n\n7 years later I moved to a startup called Otogami where a small team of 4 developed a product from nothing. It wasn't technically impressive, but we learned a lot about product development. Best products are not always the ones with the best technologies or code, it requires a good balance between time to market, good enough, and avoiding analysis paralysis.\n\nI kept working in companies with a product instead of developing software for a third party. Though I like it, I prefer to work on a product, since it requires a different set of skills. I've worked at Fon's home WiFi solution, and later at IBM Quantum project.",
+      "title": "Software Developer @ Manfred",
+      "description": "Me dedico principalmente al desarrollo web con tecnología Java, aunque he trabajado mucho con JavaScript y he tenido la oportunidad de usar otras tecnologías en los múltiples proyectos en los que he trabajado.\n\nDesde hace bastante tiempo me interesa el factor humano del desarrollo de software y defiendo los principios del manifiesto ágil, así como la calidad del código y el producto final que se le entregan a los clientes.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/0ec02668-07ba-4df7-9ffa-4f0989e7a580_8a7c7356-44cc-4585-b.jpg",
-        "alt": "avatar_square_small.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/d1fb9f68-8cea-4ae9-95b7-70b27d6c7dba_linkedin-photo-2866.linkedin-photo-2866",
+        "alt": "24/02/21/d1fb9f68-8cea-4ae9-95b7-70b27d6c7dba_linkedin-photo-2866.linkedin-photo-2866"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -40,7 +40,6 @@
         "title": "Building Evolutionary Architectures: Support Constant Change",
         "type": "reading",
         "URL": "https://www.amazon.es/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360/ref=sr_1_1?keywords=evolutionary+architectures&qid=1647938164&sprefix=evolutionary%2Caps%2C88&sr=8-1",
-        "summary": "This is a great book to learn how to build software that resists over time. Making things simple, using the scientific method to measure what is important, and taking decisions that helps the team to maintain the codebase.",
         "authors": [
           {
             "name": "Neal",
@@ -53,7 +52,6 @@
         "title": "How Real Leaders Melt The Iceberg of Ignorance With Humility",
         "type": "reading",
         "URL": "https://corporate-rebels.com/iceberg-of-ignorance/",
-        "summary": "Humility is a required skill for leaders to get more openness from people reporting to them. This prevents being ignorant of structural problems.",
         "authors": [
           {
             "name": "Joost",
@@ -66,7 +64,6 @@
         "title": "How tests support refactoring",
         "type": "reading",
         "URL": "https://blog.thecodewhisperer.com/permalink/how-tests-support-refactoring",
-        "summary": "The promise of tests is not being faster, is being safer, and how they support refactor. It is about being a safety net, not about being an engine.",
         "authors": [
           {
             "name": "J.B.",
@@ -88,234 +85,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Manfred ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/0e270933-acfb-4731-bed8-5a48d5e9569b_sin-titulo.jpg",
-            "alt": "Sin título.jpg"
-          },
-          "URL": "https://getmanfred.com"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/dc2ec8dd-a7ca-4018-af45-4c51a723646b_400164328.jpg",
-            "alt": "400164328.jpg"
-          },
-          "URL": "https://research.ibm.com/"
-        },
-        "roles": [
-          {
-            "name": "Software Developer @ IBM Research",
-            "startDate": "2018-02-01",
-            "finishDate": "2022-02-28",
-            "challenges": [
-              {
-                "description": "As part of the ETX team, my job is to build new products with awesome brand new technologies from the IBM Research labs. From Visual Studio Code plugins helping developers to create Quantum programs to a diversity of applications based in the last studies about AI. We work in different technologies, and we use the most suitable one for each situation, but my expertise is backend development with Java technologies, from monolithic architectures to microservices depending on the necessities."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "TypeORM",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "nestJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Fon",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/7f134f9c-19f9-4b60-af11-6342e119477e_fontech.png",
-            "alt": "fontech.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28",
-            "challenges": [
-              {
-                "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía.\n\nA nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Hibernate",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Redis",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "8Kdata"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2016-04-01",
-            "finishDate": "2017-02-28",
-            "challenges": [
-              {
-                "description": "Me he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar. Como viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Otogami",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/772e65af-0079-464f-8459-09e82b352bb8_sin-titulo.png",
-            "alt": "Sin título.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2014-01-01",
-            "finishDate": "2017-02-28",
-            "competences": [
-              {
-                "name": "Apache Tomcat",
-                "type": "technology"
-              },
-              {
-                "name": "Hibernate",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "AvanTIC Estudio de Ingenieros"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2007-10-01",
-            "finishDate": "2014-01-31",
-            "challenges": [
-              {
-                "description": "En esta pequeña compañía he tenido la oportunidad de evolucionar y aprender, no sólo participando en pequeños desarrollos, sino encargándome del desarrollo de aplicaciones completas para algunos de nuestros clientes. En los primeros años evolucionamos pasando de hacer uso de JSF a un enfoque de arquitectura hexagonal, haciendo uso de Spring MVC y sistemas REST para nuestras soluciones lo que nos otorgó mucha más flexibilidad.\n\nDurante el año 2010 tome el rol de evangelista de metodologías ágiles en la empresa y me encargue de su introducción, lo que consolidó nuestra relaciones con nuestros cliente e incrementó la calidad de nuestros productos.\n"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "General de Software de Canarias"
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2007-03-01",
-            "finishDate": "2007-10-31",
-            "challenges": [
-              {
-                "description": "Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource. Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sistemas de Datos"
-        },
-        "roles": [
-          {
-            "name": "Prácticas en Empresa",
-            "startDate": "2005-12-01",
-            "finishDate": "2006-08-31",
-            "challenges": [
-              {
-                "description": "Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos. Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -388,10 +157,6 @@
               {
                 "name": "TypeScript",
                 "type": "technology"
-              },
-              {
-                "name": "visual-studio-code",
-                "type": "technology"
               }
             ],
             "finishDate": "2019-10-01"
@@ -436,7 +201,7 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Full professional proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "ES",
@@ -594,26 +359,6 @@
             "type": "technology"
           }
         ]
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
-        }
       }
     ]
   },
