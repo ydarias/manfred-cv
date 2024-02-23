@@ -11,8 +11,8 @@
       "title": "Software Developer @ Manfred",
       "description": "Me dedico principalmente al desarrollo web con tecnología Java, aunque he trabajado mucho con JavaScript y he tenido la oportunidad de usar otras tecnologías en los múltiples proyectos en los que he trabajado.\n\nDesde hace bastante tiempo me interesa el factor humano del desarrollo de software y defiendo los principios del manifiesto ágil, así como la calidad del código y el producto final que se le entregan a los clientes.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/e9ac2477-5233-403f-96ab-68456c1a6594_linkedin-photo-2866.linkedin-photo-2866",
-        "alt": "24/02/22/e9ac2477-5233-403f-96ab-68456c1a6594_linkedin-photo-2866.linkedin-photo-2866"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/4f357df6-0ad7-4765-b7f2-237b101c8439_linkedin-photo-2866.linkedin-photo-2866",
+        "alt": "24/02/23/4f357df6-0ad7-4765-b7f2-237b101c8439_linkedin-photo-2866.linkedin-photo-2866"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -85,171 +85,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Manfred",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/5c0d7486-f6c1-4784-834c-2d41b80283c5_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/5c0d7486-f6c1-4784-834c-2d41b80283c5_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/02437592-c37f-40cb-95f7-06b63f798e74_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/02437592-c37f-40cb-95f7-06b63f798e74_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Developer @ IBM Research",
-            "startDate": "2018-02-01",
-            "finishDate": "2022-02-28",
-            "challenges": [
-              {
-                "description": "As part of the ETX team, my job is to build new products with awesome brand new technologies from the IBM Research labs. From Visual Studio Code plugins helping developers to create Quantum programs to a diversity of applications based in the last studies about AI.\n\nWe work in different technologies, and we use the most suitable one for each situation, but my expertise is backend development with Java technologies, from monolithic architectures to microservices depending on the necessities."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Fon",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/87c80261-4b39-4f65-a3dc-8c59f264367b_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/87c80261-4b39-4f65-a3dc-8c59f264367b_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28",
-            "challenges": [
-              {
-                "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía.\n\nA nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "8Kdata",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/e987d7c1-c9e1-4f2d-bd29-9a4f8cf5a51f_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/e987d7c1-c9e1-4f2d-bd29-9a4f8cf5a51f_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2016-04-01",
-            "finishDate": "2017-02-28",
-            "challenges": [
-              {
-                "description": "Me he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar.\n\nComo viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Otogami",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/8543440e-87e6-47b3-a95c-db0cedf1b6b5_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/8543440e-87e6-47b3-a95c-db0cedf1b6b5_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2014-01-01",
-            "finishDate": "2017-02-28",
-            "challenges": [
-              {
-                "description": "Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas.\n\nProgramo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "AvanTIC Estudio de Ingenieros",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/4bc27bce-5455-49f0-9348-4c27ab7350c9_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/4bc27bce-5455-49f0-9348-4c27ab7350c9_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2007-10-01",
-            "finishDate": "2014-01-31",
-            "challenges": [
-              {
-                "description": "En esta pequeña compañía he tenido la oportunidad de evolucionar y aprender, no sólo participando en pequeños desarrollos, sino encargándome del desarrollo de aplicaciones completas para algunos de nuestros clientes. En los primeros años evolucionamos pasando de hacer uso de JSF a un enfoque de arquitectura hexagonal, haciendo uso de Spring MVC y sistemas REST para nuestras soluciones lo que nos otorgó mucha más flexibilidad.\n\nDurante el año 2010 tome el rol de evangelista de metodologías ágiles en la empresa y me encargue de su introducción, lo que consolidó nuestra relaciones con nuestros cliente e incrementó la calidad de nuestros productos.\n"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "General de Software de Canarias",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/4bd768a0-a121-4a4a-945f-cfdfdcf3d91f_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/4bd768a0-a121-4a4a-945f-cfdfdcf3d91f_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2007-03-01",
-            "finishDate": "2007-10-31",
-            "challenges": [
-              {
-                "description": "Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sistemas de Datos"
-        },
-        "roles": [
-          {
-            "name": "Prácticas en Empresa",
-            "startDate": "2005-12-01",
-            "finishDate": "2006-08-31",
-            "challenges": [
-              {
-                "description": "Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -457,8 +292,8 @@
         "institution": {
           "name": "Universidad de La Laguna",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/a44cf54f-7021-444a-9cb2-28113015a5de_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/22/a44cf54f-7021-444a-9cb2-28113015a5de_linkedin-photo-2866.linkedin-photo-2866"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/22/145774f7-9acb-4983-a644-65aaf13481ae_linkedin-photo-2866.linkedin-photo-2866",
+            "alt": "24/02/22/145774f7-9acb-4983-a644-65aaf13481ae_linkedin-photo-2866.linkedin-photo-2866"
           }
         },
         "finishDate": "2004-01-01"
