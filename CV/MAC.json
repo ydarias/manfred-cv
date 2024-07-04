@@ -553,7 +553,12 @@
         "Backend Developer"
       ]
     },
-    "status": "notAvailable"
+    "status": "notAvailable",
+    "requirements": {
+      "contractTypes": [
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
