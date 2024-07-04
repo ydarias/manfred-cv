@@ -556,7 +556,8 @@
     "status": "notAvailable",
     "requirements": {
       "contractTypes": [
-        "permanent"
+        "permanent",
+        "freelance"
       ]
     }
   },
