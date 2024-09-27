@@ -188,26 +188,6 @@
       },
       {
         "organization": {
-          "name": "Fon",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/459a8551-156a-4359-b7e5-87bb1d5b7ea9_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/23/459a8551-156a-4359-b7e5-87bb1d5b7ea9_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software developer",
-            "startDate": "2024-02-23",
-            "challenges": [
-              {
-                "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía.\n\nA nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/b94f3991-a6f3-420c-9ce1-b177d7f22954_linkedin-photo-2866.linkedin-photo-2866",
@@ -323,6 +303,45 @@
               },
               {
                 "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fon",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/459a8551-156a-4359-b7e5-87bb1d5b7ea9_linkedin-photo-2866.linkedin-photo-2866",
+            "alt": "24/02/23/459a8551-156a-4359-b7e5-87bb1d5b7ea9_linkedin-photo-2866.linkedin-photo-2866"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2017-02-01",
+            "finishDate": "2018-02-01",
+            "challenges": [
+              {
+                "description": "Fon me ofreció la oportunidad de tomar contacto por primera vez con el rol de tech lead de un equipo, además de ser el sitio donde más he aprendido de Microservicios. Durante la implementación de su sistema de Home WiFi que empezamos desde cero, logramos construir un MVP en el plazo de tiempo objetivo, pero más importante aún de forma escalable y con código fácilmente mantenible en el tiempo.\n\nMi rol no sólo requería que implementase parte del código y la arquitectura del backend, sino que ayudase al equipo a seguir una filosofía Lean, en la que estábamos constantemente investigando y adaptándonos para lograr tener un producto atractivo en la menor cantidad de tiempo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS ECS",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
                 "type": "technology"
               }
             ]
