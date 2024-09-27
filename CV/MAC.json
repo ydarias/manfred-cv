@@ -288,6 +288,10 @@
       {
         "organization": {
           "name": "IBM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/27/749a9992-ed32-43e3-a8e2-f0109bf1d819_03e1f314-f2fe-4702-b.jpg",
+            "alt": "03e1f314-f2fe-4702-bed3-677d67558c37_linkedin-photo-2866.jpg"
+          },
           "URL": "https://research.ibm.com/"
         },
         "roles": [
