@@ -284,6 +284,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "IBM"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead @ IBM Research",
+            "startDate": "2018-02-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Tras algo más de un año y medio trabajando en diferentes proyectos de IBM Research, a final del 2019 paso a IBM Quantum a tiempo completo. Los primeros meses fue trabajando como individual contributor en diferentes problemas de rendimiento y arquitectura de la plataforma, para más tarde pasar a liderar algunos proyectos, en general diferentes APIs para usuarios de la plataforma de IBM Quantum.\n\nAunque el reto técnico en un proyecto de este tipo es muy grande, mucha de mi labor tuvo gran impacto en mejorar la comunicación entre los diferentes niveles, desde ofrecer la imagen a alto nivel y medio plazo al equipo de desarrollo, como hacer ver los pequeños problemas del día a día al equipo de management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
