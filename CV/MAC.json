@@ -92,22 +92,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sistemas de Datos"
-        },
-        "roles": [
-          {
-            "name": "Prácticas en Empresa",
-            "startDate": "2024-02-23",
-            "challenges": [
-              {
-                "description": "Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "General de Software de Canarias",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/06e37d11-b842-4dad-a0df-db77caf120ed_linkedin-photo-2866.linkedin-photo-2866",
