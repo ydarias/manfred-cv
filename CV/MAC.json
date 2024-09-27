@@ -132,26 +132,6 @@
       },
       {
         "organization": {
-          "name": "Otogami",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/41c2eff5-be87-432f-8495-7d5922ff16e5_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/23/41c2eff5-be87-432f-8495-7d5922ff16e5_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2024-02-23",
-            "challenges": [
-              {
-                "description": "Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas.\n\nProgramo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/b94f3991-a6f3-420c-9ce1-b177d7f22954_linkedin-photo-2866.linkedin-photo-2866",
@@ -331,6 +311,37 @@
               }
             ],
             "competences": [
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Otogami",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/41c2eff5-be87-432f-8495-7d5922ff16e5_linkedin-photo-2866.linkedin-photo-2866",
+            "alt": "24/02/23/41c2eff5-be87-432f-8495-7d5922ff16e5_linkedin-photo-2866.linkedin-photo-2866"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2014-01-01",
+            "finishDate": "2017-02-01",
+            "challenges": [
+              {
+                "description": "Tras bastantes años en el mundo de la consultoría, entré en Otogami para aprender cómo se construye un producto propio. Tuve la suerte de ser el primer empleado y construir Runnics desde cero, lo que me permitió tener una visión completa del proceso desde su nacimiento a su venta 3 años más tarde.\n\nIndicar el rol en este tipo de puestos es muy complicado, porque en una pequeña startup de 5 personas, no tienes rol, tienes que hacer lo que sea necesario y aporte más valor para que el producto cree un impacto. \n\nNuestro uso de las metodologías ágiles fue muy pragmático, así como nuestro sistema para definir nuevas features, y a día de hoy todos los que participamos en Otogami seguimos usando lo que aprendimos durante esos años."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
               {
                 "name": "PostgreSQL",
                 "type": "technology"
