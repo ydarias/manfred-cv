@@ -92,26 +92,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "General de Software de Canarias",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/06e37d11-b842-4dad-a0df-db77caf120ed_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/23/06e37d11-b842-4dad-a0df-db77caf120ed_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2024-02-23",
-            "challenges": [
-              {
-                "description": "Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/b94f3991-a6f3-420c-9ce1-b177d7f22954_linkedin-photo-2866.linkedin-photo-2866",
@@ -376,6 +356,41 @@
               },
               {
                 "name": "Scala",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "General de Software de Canarias",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/06e37d11-b842-4dad-a0df-db77caf120ed_linkedin-photo-2866.linkedin-photo-2866",
+            "alt": "24/02/23/06e37d11-b842-4dad-a0df-db77caf120ed_linkedin-photo-2866.linkedin-photo-2866"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2007-02-01",
+            "finishDate": "2007-10-01",
+            "challenges": [
+              {
+                "description": "Aunque fue una etapa muy corta, tuve mucha suerte de caer en un equipo con un grupo de personas que no sólo eran buenos profesionales sino que tenían mucha pasión por lo que hacían. Como cualquier novato estuve aprendiendo día a día, y los conocimientos de Java y Spring que adquirí me abrieron la puerta a una de mis mejores etapas laborales. Pero también descubrí el mundo de los libros técnicos, a autores que en la Universidad jamás se mencionaron, o la existencia de las metodologías ágiles entre otras cosas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
                 "type": "technology"
               }
             ]
