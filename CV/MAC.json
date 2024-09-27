@@ -494,6 +494,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Mentoring ability",
           "type": "practice"
         }
