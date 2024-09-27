@@ -329,6 +329,30 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Quantum Landmark for contributions on NTC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/27/0e0c4b56-cf9f-48b9-ba91-96e4274baa62_img_3749.jpeg",
+            "alt": "IMG_3749.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2022-02-01",
+        "tags": [
+          "Product development"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Golang",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Winner at Startup Weekend Tenerife 2013",
           "description": "In 2013 with a group of friends, we won the Startup Weekend Tenerife 2013. The idea was an agenda for events that was able to adapt to the special characteristics of technical events, where speakers and rooms change.",
           "image": {
