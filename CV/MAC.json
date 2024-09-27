@@ -287,7 +287,8 @@
       },
       {
         "organization": {
-          "name": "IBM"
+          "name": "IBM",
+          "URL": "https://research.ibm.com/"
         },
         "roles": [
           {
