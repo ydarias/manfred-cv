@@ -613,7 +613,7 @@
       }
     ],
     "desiredJobDescription": "I am not interested in any special technology, but a good product that solves real-life problems. I care a lot about the team and company's culture too, I prefer teams that are able to improve continually and always search for new ways to do things.",
-    "goodPractices": "I am not a dogmatic person, I use tools as they help me to complete good work, whatever good means in that context.\n\nDuring the years the ones that gave me good results are:\n* Hexagonal Architecture.\n* Evolutionary Architecture.\n* Test-Driven Development.\n* Lean\n\nPrevious practices do not allow me to be fast from day one, but definitely allow me to be very fast in the long term, which is more important.",
+    "goodPractices": "No soy una persona dogmática, utilizo las herramientas que me ayudan a completar el trabajo de manera satisfactoria.\n\nDurante estos años me han dado buenos resultados:\n* Hexagonal Architecture.\n* Evolutionary Architecture.\n* Test-Driven Development.\n* Lean\n\nLas prácticas anteriores no me permiten ir más rápido desde el primer día, pero definitivamente me permiten ir más rápido en el largo plazo, que es mucho más importante.",
     "projects": [
       {
         "name": "Dev Story Scraper"
