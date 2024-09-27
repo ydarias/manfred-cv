@@ -232,15 +232,34 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/b94f3991-a6f3-420c-9ce1-b177d7f22954_linkedin-photo-2866.linkedin-photo-2866",
             "alt": "24/02/23/b94f3991-a6f3-420c-9ce1-b177d7f22954_linkedin-photo-2866.linkedin-photo-2866"
-          }
+          },
+          "URL": "https://www.getmanfred.com"
         },
         "roles": [
           {
             "name": "Software Developer",
-            "startDate": "2024-02-23",
+            "startDate": "2022-02-01",
             "challenges": [
               {
-                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
+                "description": "Me uní a Manfred con una premisa muy clara. Ya había trabajado con su CEO, David Bonilla, en Otogami, y quería imprimir en el equipo de Producto el mismo espíritu que existía allí. \n\nAdemás de trabajar con el equipo en el código, algunas de mis responsabilidades han sido la creación de la arquitectura actual (con gran base en Hexagonal Architecture), o el liderazgo para lograr tener bajo control el backlog y entregar valor de una manera continua. No fue un cambio de la noche a la mañana sino un cambio basado en la mejora continua, en el que el principal objetivo siempre fue que la comunicación entre desarrolladores y product managers fuese cordial y con un objetivo común, una vez que todos empezaron a hablar el mismo “lenguaje”, el resto del camino fue mucho más fácil.\n\nEl cambio de filosofía tenía su base en dar responsabilidad y capacidad de opinión al equipo, y es lo que convirtió a un conjunto de personas que entregaban features en un equipo que entregaba valor de manera constante."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
               }
             ]
           }
@@ -387,7 +406,7 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
