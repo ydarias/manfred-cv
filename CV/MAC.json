@@ -79,6 +79,10 @@
         "URL": "https://linkedin.com/in/ydarias"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/ydarias"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/ydarias"
       }
@@ -494,6 +498,10 @@
         {
           "URL": "https://linkedin.com/in/ydarias",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ydarias",
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/ydarias",
