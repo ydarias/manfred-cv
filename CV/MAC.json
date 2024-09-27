@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -537,19 +537,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Leadership skills",
+          "name": "Capacidad de mentorización",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Mentoring ability",
+          "name": "Liderazgo",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Team player",
+          "name": "Trabajo en equipo",
           "type": "practice"
         }
       }
