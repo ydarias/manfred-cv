@@ -208,26 +208,6 @@
       },
       {
         "organization": {
-          "name": "IBM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/03e1f314-f2fe-4702-bed3-677d67558c37_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/23/03e1f314-f2fe-4702-bed3-677d67558c37_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Developer @ IBM Research",
-            "startDate": "2024-02-23",
-            "challenges": [
-              {
-                "description": "As part of the ETX team, my job is to build new products with awesome brand new technologies from the IBM Research labs. From Visual Studio Code plugins helping developers to create Quantum programs to a diversity of applications based in the last studies about AI.\n\nWe work in different technologies, and we use the most suitable one for each situation, but my expertise is backend development with Java technologies, from monolithic architectures to microservices depending on the necessities."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/b94f3991-a6f3-420c-9ce1-b177d7f22954_linkedin-photo-2866.linkedin-photo-2866",
@@ -259,6 +239,46 @@
               },
               {
                 "name": "nestJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/03e1f314-f2fe-4702-bed3-677d67558c37_linkedin-photo-2866.linkedin-photo-2866",
+            "alt": "24/02/23/03e1f314-f2fe-4702-bed3-677d67558c37_linkedin-photo-2866.linkedin-photo-2866"
+          },
+          "URL": "https://www.ibm.com/quantum"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead @ IBM Quantum",
+            "startDate": "2019-10-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Tras algo más de un año y medio trabajando en diferentes proyectos de IBM Research, a final del 2019 paso a IBM Quantum a tiempo completo. Los primeros meses fue trabajando como individual contributor en diferentes problemas de rendimiento y arquitectura de la plataforma, para más tarde pasar a liderar algunos proyectos, en general diferentes APIs para usuarios de la plataforma de IBM Quantum.\n\nAunque el reto técnico en un proyecto de este tipo es muy grande, mucha de mi labor tuvo gran impacto en mejorar la comunicación entre los diferentes niveles, desde ofrecer la imagen a alto nivel y medio plazo al equipo de desarrollo, como hacer ver los pequeños problemas del día a día al equipo de management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "LookBack",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
