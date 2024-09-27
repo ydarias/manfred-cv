@@ -168,26 +168,6 @@
       },
       {
         "organization": {
-          "name": "8Kdata",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/45cb49de-673e-4459-b9fc-b3fa91ee0993_linkedin-photo-2866.linkedin-photo-2866",
-            "alt": "24/02/23/45cb49de-673e-4459-b9fc-b3fa91ee0993_linkedin-photo-2866.linkedin-photo-2866"
-          }
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2024-02-23",
-            "challenges": [
-              {
-                "description": "Me he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar.\n\nComo viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/b94f3991-a6f3-420c-9ce1-b177d7f22954_linkedin-photo-2866.linkedin-photo-2866",
@@ -342,6 +322,33 @@
               },
               {
                 "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "8Kdata",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/45cb49de-673e-4459-b9fc-b3fa91ee0993_linkedin-photo-2866.linkedin-photo-2866",
+            "alt": "24/02/23/45cb49de-673e-4459-b9fc-b3fa91ee0993_linkedin-photo-2866.linkedin-photo-2866"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2016-04-01",
+            "finishDate": "2017-02-01",
+            "challenges": [
+              {
+                "description": "Me he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar.\n\nComo viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PostgreSQL",
                 "type": "technology"
               }
             ]
