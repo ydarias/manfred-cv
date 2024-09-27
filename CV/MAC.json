@@ -490,6 +490,14 @@
         },
         "finishDate": "2004-01-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
